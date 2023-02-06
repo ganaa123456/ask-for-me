@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ask-for-me/static/css/main.97623472.css",
+    "main.js": "/ask-for-me/static/js/main.d34e6f90.js",
+    "static/js/787.5cc8d2f7.chunk.js": "/ask-for-me/static/js/787.5cc8d2f7.chunk.js",
+    "static/media/myphoto.jpg": "/ask-for-me/static/media/myphoto.fb470985ff65e9a99223.jpg",
+    "index.html": "/ask-for-me/index.html",
+    "main.97623472.css.map": "/ask-for-me/static/css/main.97623472.css.map",
+    "main.d34e6f90.js.map": "/ask-for-me/static/js/main.d34e6f90.js.map",
+    "787.5cc8d2f7.chunk.js.map": "/ask-for-me/static/js/787.5cc8d2f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97623472.css",
+    "static/js/main.d34e6f90.js"
+  ]
+}
