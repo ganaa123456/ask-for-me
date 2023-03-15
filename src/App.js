@@ -43,7 +43,7 @@ function App() {
         message: messageSub,
       }
 
-      Axios.post("https://ask-me-4c623-default-rtdb.firebaseio.com/message.json" , message)
+      Axios.post("https://ask-me-ac779-default-rtdb.firebaseio.com//message.json" , message)
       .then(response => {
         setAddText("Баярлалаа хөөрхнөө 🙂");
       })
